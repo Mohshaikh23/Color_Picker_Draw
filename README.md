@@ -17,7 +17,7 @@ Installation
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/color-tracking.git
+git clone https://github.com/Mohshaikh23/Color_Picker_Draw.git
 ```
 
 Navigate to the project directory:
